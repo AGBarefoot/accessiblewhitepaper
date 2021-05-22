@@ -1,3 +1,3 @@
 # accessibletemplate
-Accessible White Paper´s Template.
-To apprenticeship about WCAG 3.0
+Template acessível de White Paper.
+Para aprendizado do WCAG 3.0
